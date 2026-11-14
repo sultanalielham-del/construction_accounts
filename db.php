@@ -1,9 +1,5 @@
 <?php
-/**
- * اتصال PDO به MySQL
- * اگر db.php فعلی شما کار می‌کند، آن را جایگزین نکنید؛ فقط مطمئن شوید
- * متغیر اتصال نامش $pdo است و همین گزینه‌های PDO را دارد.
- */
+
 $host = 'localhost';
 $dbname = 'construction_accounts';
 $username = 'root';
